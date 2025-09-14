@@ -4,14 +4,14 @@
 
 ## 📌 Purpose of this Template
 
-This repository is the **starter** for your Assignment-1 submission in GitHub Classroom. Clone it, implement your solution inside the provided structure, and push your work.
+This repository is the **starter** for your Assignment-1 submission in GitHub Classroom. You can implement your solution inside the provided structure, and push your work.
 
 > **Scope (as per assignment brief):**
 > Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
 
 ---
 
-> TAs will evaluate using **either** the `.ipynb` **or** the `.py` pipeline; **both are mandatory** to submit (mirrored functionality).
+**Important Note:** TAs will evaluate using **either** the `.ipynb` **or** the `.py` pipeline; **both are mandatory** to submit (mirrored functionality).
 
 ---
 
@@ -44,7 +44,7 @@ Your notebook must:
   
 ---
 
-## You can your own contents further here:
+## You can further add your own sections/titles along with corresponding contents here:
 
 ---
 
