@@ -1,4 +1,4 @@
-# IIT-Madras • DA2401 • Machine Learning Lab • Assignment-1
+# IIT-Madras DA2401 Machine Learning Lab: Assignment-1
 
 # Linear Regression – Optimization Methods
 
@@ -19,13 +19,13 @@ This repository is the **starter** for your Assignment-1 submission in GitHub Cl
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization 
+* Describe your repository structure here. Explain about overall code organization.
 
 ---
 
 ## 📦 Installation & Dependencies
 
-* Mention all the related instructions for installation of related packages for running your code
+* Mention all the related instructions for installation of related packages for running your code here.
 
 ---
 
@@ -41,8 +41,8 @@ All experiments should be runnable from the command line **and** reproducible in
 
 Your notebook must:
 
-* Run **top-to-bottom without manual edits**, using the same functions as the CLI.
-* Contain brief EDA, design choices, and final comparison plots/tables.
+* Run **top-to-bottom without manual edits**.
+* You can add markdown cells, comments to explain your notebook better.
   
 ---
 
@@ -59,4 +59,5 @@ Your notebook must:
 * Keep commits with meaningful messages.
 * Please do not write all code on your local machine and push everything to GitHub on the last day. The commits in GitHub should reflect how the code has evolved during the course of the assignment.
 * Collaborations and discussions with other students is strictly prohibited.
+* Code should be modularized and well-commented.
 
