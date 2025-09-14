@@ -11,7 +11,9 @@ This repository is the **starter** for your Assignment-1 submission in GitHub Cl
 
 ---
 
-**Important Note:** TAs will evaluate using **either** the `.ipynb` **or** the `.py` pipeline; **both are mandatory** to submit.
+**Important Note:** 
+1. TAs will evaluate using **either** the `.ipynb` **or** the `.py` pipeline; **both are mandatory** to submit.
+2. All your reports, plots, visualizations, etc pertaining to your solution should be uploaded to this GitHub repository
 
 ---
 
