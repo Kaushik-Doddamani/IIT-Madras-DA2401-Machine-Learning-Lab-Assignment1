@@ -4,14 +4,14 @@
 
 ## 📌 Purpose of this Template
 
-This repository is the **starter** for your Assignment-1 submission in GitHub Classroom. You can implement your solution inside the provided structure, and push your work.
+This repository is the **starter** for your Assignment-1 submission in GitHub Classroom. You can implement your solution inside the provided structure, and push your work. Please free to edit this README.md file as per your requirements.
 
 > **Scope (as per assignment brief):**
 > Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
 
 ---
 
-**Important Note:** TAs will evaluate using **either** the `.ipynb` **or** the `.py` pipeline; **both are mandatory** to submit (mirrored functionality).
+**Important Note:** TAs will evaluate using **either** the `.ipynb` **or** the `.py` pipeline; **both are mandatory** to submit.
 
 ---
 
@@ -54,7 +54,7 @@ Your notebook must:
 
 
 ## Best Practices:
-* Keep commits atomic with meaningful messages (e.g., `feat: add Nesterov optimizer`, `fix: stable line search`).
+* Keep commits with meaningful messages.
 * Please do not write all code on your local machine and push everything to GitHub on the last day. The commits in GitHub should reflect how the code has evolved during the course of the assignment.
 * Collaborations and discussions with other students is strictly prohibited.
 
